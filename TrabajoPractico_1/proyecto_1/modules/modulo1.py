@@ -7,3 +7,5 @@ def imprimir():
 def imprimir2():
     print("burguesa")
     
+def imprimir3():
+    print("rimco")
